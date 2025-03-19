@@ -15,3 +15,5 @@ import { AppRoutingModule } from './app-routing.module'; // Importa el enrutador
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+//app.module.ts para la configuración general de la aplicación 
